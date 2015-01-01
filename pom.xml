@@ -120,12 +120,12 @@
 		<dependency>
 			<groupId>org.jppf</groupId>
 			<artifactId>jppf-client</artifactId>
-			<version>4.2.5</version>
+			<version>4.2.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jppf</groupId>
 			<artifactId>jppf-common-node</artifactId>
-			<version>4.2.5</version>
+			<version>4.2.4</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.slf4j</groupId>
@@ -136,9 +136,8 @@
 		<dependency>
 			<groupId>org.jppf</groupId>
 			<artifactId>jppf-common</artifactId>
-			<version>4.2.5</version>
+			<version>4.2.4</version>
 		</dependency>
-		
 	</dependencies>
 
 </project>
